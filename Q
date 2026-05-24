@@ -1,0 +1,27 @@
+
+Creating Components , sling servlets, jcr , aem architecture everything , htl  block statements, osgi annotations,  sling annotations,  dispatcher, language copies, fragments, client libs, work flow , custom components,debugging client libs, customer layouts,
+
+1. author publisher
+2. Dispatcher
+3. Jcr
+4. Sling
+5. High level architecture
+6. OSGI 
+7. OSGI configuration annotations 
+8. Why it is required to have html file same name as component node
+9. Components and client libs
+10. How to connect client library and component
+11. How to connect sling model with component
+12. Adaptables type, cq:dialog
+13. How to register a servlet
+14. Two methods in servlet (interface)
+15. Static and editable template
+16. Initial content, structure and layout 
+17. How to create clientlib 
+18. AllowProxy,  categories, dependency and embed
+19. Page policy 
+20. Blueprint and live copy, language copy
+21. Multi site management
+22. Can we create language copy from live copy
+23. Experience fragments and content fragments
+24. What are model after Maven archetype folder structure
